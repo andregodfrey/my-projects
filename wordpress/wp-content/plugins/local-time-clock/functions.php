@@ -41,7 +41,7 @@ function print_thecountry_list($country)
 
 function has_provinces($country)
 {
-	//
+	//  
 	//	Province list
 	//	$province_list[$country_name][$province_name]['province_code'];
 

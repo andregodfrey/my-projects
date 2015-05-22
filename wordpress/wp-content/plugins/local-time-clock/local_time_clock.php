@@ -29,7 +29,7 @@ function load_local_time_clock() {
 }
 
 
-/*******************************************************************************************
+/********************************************************************************************
  *
  *       Local Time Clock  class.
  *       This class handles everything that needs to be handled with the widget:
